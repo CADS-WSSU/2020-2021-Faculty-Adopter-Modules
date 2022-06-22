@@ -27,7 +27,7 @@ The primary focus of this repository concerns only the portion of the course whe
       <th>Information In Each Folder</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/HCM-3301-Population-Health-Data-Science-Module/tree/main/Lectures">Lecture Notes</a></td>
+      <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/HCM-3301-Population-Health-Data-Science-Module-main/Lectures">Lecture Notes</a></td>
       <td>
         <ul>
           <li>Study Process</li>
