@@ -8,29 +8,17 @@ This is a repository compiling the data science modules implemented as a part of
 <table>
   <tbody>
     <tr>
-      <th>Folders In Repository</th>
-      <th>Information In Each Folder</th>
+      <th>Module Name</th>
+      <th>Module Description</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/BrixxPanlaqui/JUS4330-Social-Justice-Data-Science-Module/tree/main/Lectures">Lecture Notes</a></td>
+      <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/MAT3312-Biostatistics-Data-Science-Module-main">Biostatistics</a></td>
       <td>
-        <ul>
-          <li>Module 1 - Introductory CADS Module
-            <ul>
-              <li>Survey Research Lecture</li>
-              <li>Secondary Data Analysis Lecture</li>
-            </ul>
-          </li>
-          <li>Module 2 - Descriptive Statistics Module
-            <ul>
-              <li>Descriptive Statistics Lecture</li>
-            </ul>
-          </li>
-        </ul>
+        MAT 3312 Biostatistics
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/BrixxPanlaqui/JUS4330-Social-Justice-Data-Science-Module/tree/main/Data%20Analysis%20Assignments">Data Analysis Assignments</a></td>
+      <td><a href="">Data Analysis Assignments</a></td>
       <td>
         <ul>
           <li>Module 1 Assignment</li>
@@ -38,7 +26,7 @@ This is a repository compiling the data science modules implemented as a part of
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/BrixxPanlaqui/JUS4330-Social-Justice-Data-Science-Module/tree/main/Data%20Analysis%20Quizzes">Data Analysis Quizzes</a></td>
+      <td><a href="">Data Analysis Quizzes</a></td>
       <td>
         <ul>
           <li>Module 1 Quiz</li>
@@ -46,7 +34,7 @@ This is a repository compiling the data science modules implemented as a part of
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/BrixxPanlaqui/JUS4330-Social-Justice-Data-Science-Module/tree/main/Student%20Work%20Examples">Student Work Examples</a></td>
+      <td><a href="">Student Work Examples</a></td>
       <td>
         <ul>
           <li>Sample student submission from the assignments</li>
