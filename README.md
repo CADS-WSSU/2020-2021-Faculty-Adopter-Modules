@@ -30,9 +30,9 @@ This is a repository compiling the data science modules implemented as a part of
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/PSY-4425-Contemporary-Issues-in-Psychological-Sciences-Data-Science-Module-main">Contemporary Issues in Psychology</a></td>
+      <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/PSY-4425-Contemporary-Issues-in-Psychological-Sciences-Data-Science-Module-main">Contemporary Issues In Psychology</a></td>
       <td>
-        PSY 4425 Contemporary Issues in Psychology
+        PSY 4425 Contemporary Issues In Psychology
       </td>
     </tr>
     <tr>
