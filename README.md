@@ -20,25 +20,25 @@ This is a repository compiling the data science modules implemented as a part of
     <tr>
       <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/JUS4330-Social-Justice-Data-Science-Module--main">Social Justice</a></td>
       <td>
-       
+       dad
       </td>
     </tr>
     <tr>
       <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/SPM3301-Sports-Marketing-and-Promotion-Data-Science-Module-main">Sports Marketing and Promotion</a></td>
       <td>
-      
+      adad
       </td>
     </tr>
     <tr>
       <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/PSY-4425-Contemporary-Issues-in-Psychological-Sciences-Data-Science-Module-main">Contemporary Issues in Psychology</a></td>
       <td>
-        
+        adad
       </td>
     </tr>
     <tr>
       <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/HCM-3301-Population-Health-Data-Science-Module-main">Population    Health</a></td>
       <td>
-        
+        adawd
       </td>
     </tr>
   </tbody>
