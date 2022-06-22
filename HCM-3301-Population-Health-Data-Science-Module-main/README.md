@@ -35,7 +35,7 @@ The primary focus of this repository concerns only the portion of the course whe
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/BrixxPanlaqui/HCM-3301-Population-Health-Data-Science-Module/tree/main/Homework">Homework</a></td>
+      <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/HCM-3301-Population-Health-Data-Science-Module-main/Homework">Homework</a></td>
       <td>
         <ul>
           <li>Homework 1 Analyze Data</li>
