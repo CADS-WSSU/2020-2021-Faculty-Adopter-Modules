@@ -28,7 +28,7 @@ The primary focus of this repository concerns only the portion of the course whe
       <th>Information In Each Folder</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/BrixxPanlaqui/JUS4330-Social-Justice-Data-Science-Module/tree/main/Lectures">Lecture Notes</a></td>
+      <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/JUS4330-Social-Justice-Data-Science-Module--main/Lectures">Lecture Notes</a></td>
       <td>
         <ul>
           <li>Module 1 - Introductory CADS Module
@@ -46,7 +46,7 @@ The primary focus of this repository concerns only the portion of the course whe
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/BrixxPanlaqui/JUS4330-Social-Justice-Data-Science-Module/tree/main/Data%20Analysis%20Assignments">Data Analysis Assignments</a></td>
+      <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/JUS4330-Social-Justice-Data-Science-Module--main/Data%20Analysis%20Assignments">Data Analysis Assignments</a></td>
       <td>
         <ul>
           <li>Module 1 Assignment</li>
@@ -54,7 +54,7 @@ The primary focus of this repository concerns only the portion of the course whe
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/BrixxPanlaqui/JUS4330-Social-Justice-Data-Science-Module/tree/main/Data%20Analysis%20Quizzes">Data Analysis Quizzes</a></td>
+      <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/JUS4330-Social-Justice-Data-Science-Module--main/Data%20Analysis%20Quizzes">Data Analysis Quizzes</a></td>
       <td>
         <ul>
           <li>Module 1 Quiz</li>
@@ -62,7 +62,7 @@ The primary focus of this repository concerns only the portion of the course whe
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/BrixxPanlaqui/JUS4330-Social-Justice-Data-Science-Module/tree/main/Student%20Work%20Examples">Student Work Examples</a></td>
+      <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/JUS4330-Social-Justice-Data-Science-Module--main/Student%20Work%20Examples">Student Work Examples</a></td>
       <td>
         <ul>
           <li>Sample student submission from the assignments</li>
