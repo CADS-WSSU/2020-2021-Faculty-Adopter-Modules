@@ -8,8 +8,8 @@ This repository aims to be a central open-source resource for all modules and ma
 <table>
   <tbody>
     <tr>
-      <th>Repository Name</th>
-      <th>Repository Description</th>
+      <th>Module Name</th>
+      <th>Module Description</th>
     </tr>
     <tr>
       <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/MAT3312-Biostatistics-Data-Science-Module-main">Biostatistics</a></td>
