@@ -36,7 +36,7 @@ This is a repository compiling the data science modules implemented as a part of
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/HCM-3301-Population-Health-Data-Science-Module-main">Population Health</a></td>
+      <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/HCM-3301-Population-Health-Data-Science-Module-main">Population    Health</a></td>
       <td>
         
       </td>
