@@ -40,9 +40,7 @@ The primary focus of this reposity concerns only the portion of the course where
       <td><a href="https://github.com/CADS-WSSU/PSY-4425-Contemporary-Issues-in-Psychological-Sciences-Data-Science-Module/tree/main/Hands%20On%20Assignment">Hands On Assignment</a></td>
       <td>
         <ul>
-          <li>Analyzing Data on Contemporary Issues (Assignment)</li>
-          <li>Dataset Options</li>
-          <li>Survey Basics</li>
+          <li>Analyzing Data on Contemporary Issues in Psychological Sciences</li>
         </ul>
       </td>
     </tr>
