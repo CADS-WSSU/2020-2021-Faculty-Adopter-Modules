@@ -29,7 +29,7 @@ The primary focus of this reposity concerns only the portion of the course where
       <th>Information In Each Folder</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/PSY-4425-Contemporary-Issues-in-Psychological-Sciences-Data-Science-Module/tree/main/Lectures">Lecture Notes</a></td>
+      <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/PSY-4425-Contemporary-Issues-in-Psychological-Sciences-Data-Science-Module-main/Lectures">Lecture Notes</a></td>
       <td>
         <ul>
           <li>Data Management and Analysis in Psychological Sciences</li>
