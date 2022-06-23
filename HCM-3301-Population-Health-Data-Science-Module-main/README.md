@@ -15,8 +15,8 @@ This course introduces basic principles of population health relating to natural
 # Data Science Infusion
 The primary focus of this repository concerns only the portion of the course where the data science infusion modules were implemented as part of the CADS adopter program. The modules consists of the following:
 <ul>
-  <li>Module 1: Means and Frequencies</li>
-  <li>Module 2: Crosstabs</li>
+  <li>Module 1: Using Means and Frequencies to Describe Single Categorical Variables</li>
+  <li>Module 2: Using Crosstabs to Describe Relationships Between Two Categorical Variables</li>
 </ul>
 
 # Navigating the Repository
