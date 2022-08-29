@@ -18,7 +18,7 @@ This repository aims to be a central open-source resource for all modules and ma
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/JUS4330-Social-Justice-Data-Science-Module--main">Social Justice</a></td>
+      <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/JUS4330-Social-Justice-Data-Science-Module-main">Social Justice</a></td>
       <td>
        JUS 4330 Social Justice
       </td>
