@@ -10,7 +10,7 @@ The topics in this course include: data collection, descriptive statistics, stat
 
 
 # Data Science Infusion
-The primary focus of this reposity concerns only the portion of the course where the data science infusion modules were implemented as part of the CADS adopter program. These modules are classified into four broad areas:
+The primary focus of this repository concerns only the portion of the course where the data science infusion modules were implemented as part of the CADS adopter program. These modules are classified into four broad areas:
 
 ![image](https://user-images.githubusercontent.com/57458856/172091815-011e6cfa-455a-4c53-b3c9-85f03711375f.png)
 
